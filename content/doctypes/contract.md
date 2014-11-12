@@ -8,9 +8,9 @@ This document type does not manifest itself alone. But several Document types
 inherit from this type.
 
 Inheriting Document types:
-* notaryProviderContract
-* digitalAssetContract
-* basketContract
+* [notaryProviderContract](notaryProviderContract.md)
+* [digitalAssetContract](digitalAssetContract.md)
+* basketContract (TODO)
 
 ## Elements and attributes
 * Element `condition`: a human readable piece of (legal) text. Can appear more
